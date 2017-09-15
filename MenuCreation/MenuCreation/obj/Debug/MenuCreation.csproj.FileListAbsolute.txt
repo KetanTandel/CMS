@@ -1,0 +1,15 @@
+D:\SVN\MenuCreation\MenuCreation\bin\Debug\MenuCreation.exe.config
+D:\SVN\MenuCreation\MenuCreation\bin\Debug\MenuCreation.exe
+D:\SVN\MenuCreation\MenuCreation\bin\Debug\MenuCreation.pdb
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.csprojResolveAssemblyReference.cache
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.frmMenuCreation.resources
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.Properties.Resources.resources
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.csproj.GenerateResource.Cache
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.exe
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.pdb
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.MDIParent.resources
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.UserPermission.resources
+D:\SVN\MenuCreation\MenuCreation\obj\Debug\MenuCreation.Login.resources
+D:\R&D\MenuCreation\MenuCreation\bin\Debug\MenuCreation.exe.config
+D:\R&D\MenuCreation\MenuCreation\obj\Debug\MenuCreation.exe
+D:\R&D\MenuCreation\MenuCreation\obj\Debug\MenuCreation.pdb
